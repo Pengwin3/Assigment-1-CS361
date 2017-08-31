@@ -1,0 +1,56 @@
+10
+Kolev
+Georgiev
+Burke
+Tang
+Mitkov
+Bartholomew
+Schmakel
+Nagle
+Shankar
+Wang
+Shankar 0-1 Tang
+Nagle 1/2-1/2 Burke
+Kolev 0-1 Schmakel
+Bartholomew 1/2-1/2 Wang
+Georgiev 1/2-1/2 Mitkov
+Tang 1-0 Mitkov
+Wang 0-1 Georgiev
+Schmakel 1/2-1/2 Bartholomew
+Burke 1-0 Kolev
+Shankar 1/2-1/2 Nagle
+Nagle 1/2-1/2 Tang
+Kolev 1-0 Shankar
+Bartholomew 1/2-1/2 Burke
+Georgiev 1-0 Schmakel
+Mitkov 0-1 Wang
+Tang 1/2-1/2 Wang
+Schmakel 1-0 Mitkov
+Burke 1/2-1/2 Georgiev
+Shankar 1-0 Bartholomew
+Nagle 1/2-1/2 Kolev
+Kolev 1-0 Tang
+Bartholomew 1-0 Nagle
+Georgiev 1/2-1/2 Shankar
+Mitkov 0-1 Burke
+Wang 1/2-1/2 Schmakel
+Tang 0-1 Schmakel
+Burke 1/2-1/2 Wang
+Shankar 0-1 Mitkov
+Nagle 1/2-1/2 Georgiev
+Kolev 1-0 Bartholomew
+Bartholomew 1/2-1/2 Tang
+Georgiev 1/2-1/2 Kolev
+Mitkov 0-1 Nagle
+Wang 1-0 Shankar
+Schmakel 1-0 Burke
+Tang 1-0 Burke
+Shankar 1-0 Schmakel
+Nagle 1-0 Wang
+Kolev 1/2-1/2 Mitkov
+Bartholomew 1/2-1/2 Georgiev
+Georgiev 1/2-1/2 Tang
+Mitkov 1/2-1/2 Bartholomew
+Wang 1/2-1/2 Kolev
+Schmakel 0-1 Nagle
+Burke 1-0 Shankar
