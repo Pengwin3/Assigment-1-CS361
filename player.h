@@ -9,10 +9,8 @@ class Player
 {
 public:
 	/* START CHANGE BLOCK */
-void GenerateResults
-{
-	
-}
+
+
 
 	/* END CHANGE BLOCK */
 public:
