@@ -7,10 +7,47 @@
 
 class Player
 {
+
+	private:
+		std::string m_Name;
+		unsigned int m_GameCount;
+		Game** m_Games;
+
 public:
 	/* START CHANGE BLOCK */
 
+//			Player() : m_Name(), m_Games(nullptr), m_GameCount(0)
+	// , Game(nullptr)
+//			{}
 
+//---------------------------------------
+
+	// Player::Player(const Player &addGame)
+	// {
+	// 	m_Games = new unsigned int;
+	// 	*m_Games = *Game;
+	// }
+
+//---------------------------------------
+
+// 	Player(const Player &m_Games) {
+//    Game = new unsigned int;
+//    **Game = **m_Games.Game; // copy the value
+// }
+
+//---------------------------------------
+// Player& operator= (const Player&);
+
+	~Player()
+	{
+		delete [] m_Games;
+		// m_Name = "";
+	}
+
+//	const Game* getGame(unsigned int);
+	// const Game getGame(unsigned int gameCount);
+	// const Game getGameWithPlayer();
+//	int *  m_Games;
 
 	/* END CHANGE BLOCK */
 public:
@@ -78,10 +115,10 @@ public:
 		return result;
 	}
 
-private:
-	std::string m_Name;
-	unsigned int m_GameCount;
-	Game** m_Games;
+// private:
+// 	std::string m_Name;
+// 	unsigned int m_GameCount;
+// 	Game** m_Games;
 };
 
 #endif // __PLAYER_H__

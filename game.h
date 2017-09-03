@@ -17,7 +17,7 @@ public:
 		m_BlackPlayer = black;
 		m_Score = score;
 	}
-	
+
 	std::string getWhitePlayer() const
 	{
 		return m_WhitePlayer;
@@ -34,7 +34,7 @@ public:
 		{
 			return 1.0;
 		}
-		
+
 		if (m_BlackPlayer == name && m_Score == -1.0)
 		{
 			return 1.0;
@@ -46,7 +46,7 @@ public:
 		}
 
 		return 0.0;
-	}		
+	}
 };
 
 #endif // __GAME_H__
